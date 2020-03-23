@@ -1,5 +1,7 @@
 <template>
-    <div>分类</div>
+    <div>
+        <h2>hello world</h2>
+    </div>
 </template>
 
 <script>
